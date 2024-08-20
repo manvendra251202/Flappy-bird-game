@@ -10,4 +10,4 @@ Throughout the tutorial, you will learn how to create the game loop, create a jf
 [How to setup Java with Visual Studio Code](https://youtu.be/BB0gZFpukJU)
 
 ![flappybird-ss](https://github.com/ImKennyYip/flappy-bird-java/assets/78777681/8b445d66-ab36-4d40-a6ac-ad501d41ed32)
-![image](https://github.com/user-attachments/assets/6b5506b9-769f-4ade-bf5c-b8199bca8242)
+
